@@ -1,6 +1,6 @@
 # resturant
 
-> a nuxt resturant
+>  website Resturant Website using vue & Nuxtjs and conected to Firebase website
 
 ## Build Setup
 
